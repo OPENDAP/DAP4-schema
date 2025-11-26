@@ -1,4 +1,7 @@
 # DAP4-schema
+
+!NOTE This repository has been retired. See https://github.com/OPENDAP/xml instead.
+
 DAP4 XML Schema
 
 This project holds an XML Schema for DAP4. Note that the schema was generated from
